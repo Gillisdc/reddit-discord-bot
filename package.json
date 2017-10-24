@@ -1,0 +1,13 @@
+{
+  "name": "What-Could-Go-Wrong-bot",
+  "version": "1.0.0",
+  "description": "Daily top What could go wrong post",
+  "main": "bot.js",
+  "author": "GDC",
+  "dependencies": {
+    "discord.io": "^2.5.3",
+    "node-fetch": "^1.7.3",
+    "request": "^2.83.0",
+    "winston": "^2.4.0"
+  }
+}
